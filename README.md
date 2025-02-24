@@ -57,9 +57,9 @@ To run the project, you need to install the following Python packages:
 
 ## Future Plans
 
-The project is highly personalized for my current setup, and I am working on a version 2 that will include:
+The project is highly personalized for my current setup, and thus is hard to be used by anyone else, nor is that the purpose. I am working on a version 2 that will include:
 - Translations of the extracted words.
 - Expressions and sayings (now just single words)
 - An SQL-based implementation of the entire application.
-- A possible online hosting option for Japanese language enthusiasts.
+- online hosting for the results of the analysis with possibilities to see frequencies of words and expressions not only in a single series but also across genres etc. 
 
