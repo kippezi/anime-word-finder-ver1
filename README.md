@@ -8,7 +8,7 @@ This project takes as input a certain folder structure, scans all the Japanese s
 Handles Japanese word-related processes, including word normalization and readings.
 
 ### `jlpt_grader`
-Handles the JLPT grading for words based on their frequency and usage.
+Handles the JLPT grading for words
 
 ### `jlpt_tools`
 Handles miscellaneous JLPT-related tasks.
